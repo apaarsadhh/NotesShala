@@ -1,0 +1,22 @@
+header.masthead .page-heading,
+header.masthead .site-heading {
+    text-align: center;
+}
+
+#mainNav {
+    position: fixed;
+    border-bottom: 1px solid #e9ecef;
+    background-color: #fff;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.pdf {
+    margin-right: 25px;
+    /* margin-left: 30px; */
+    margin-top: 10px;
+}
+
+.result {
+    padding: 10px;
+    text-align: center;
+}
